@@ -14,11 +14,11 @@ Te recordamos que puedes usar las tecnologías (base de datos, lenguajes de prog
   - Si surge un problema/aclaración de la prueba durante la competición se informará por igual a todos los participantes para estar en igualdad de condiciones.
 
 ## Recomendaciones
-- **Trae un portatil ya configurado** con tu editor preferido, base de datos, etc. La organización de cualquier forma facilitará un PC, teclado, ratón y una pantalla adicional para la realización de la prueba.
+- **Trae un portatil ya configurado** con tu editor preferido, base de datos, git, etc. La organización de cualquier forma facilitará un PC, teclado, ratón y una pantalla adicional para la realización de la prueba.
 
-- **Estudia bien los requerimientos de las pruebas**. Se entregarán sus instrucciones, bocetos y un checklist para su evaluación. Es conveniente leer cuidadosamente todos los items del checklist y seleccionar los más favorables. La prueba está dimensionada para que sea fácil realizar algunos items, pero no la finalización de todos ellos. 
+- **Estudia bien los requerimientos de las pruebas**. Se entregarán sus instrucciones, y un checklist para su evaluación. Es conveniente leer cuidadosamente todos los items del checklist y seleccionar los más favorables. La prueba está dimensionada para que sea fácil realizar algunos items, pero no la finalización de todos ellos. 
 
-- **Realiza los pasos previos que te proporcionamos**. No esperes a hacer un trabajo previo al día del examen si puedes ya llevarlo preparado. Lleva así mismo una arquitectura tipo para tu aplicación, con las librerías que utilices, etc..
+- **Realiza los pasos previos que aquí te proporcionamos**. No esperes a hacer un trabajo previo al día del examen si puedes ya llevarlo preparado. Lleva así mismo una arquitectura tipo para tu aplicación, con las librerías que utilices, etc..
 
 
 ## Horario de las pruebas
@@ -39,5 +39,5 @@ Te recordamos que puedes usar las tecnologías (base de datos, lenguajes de prog
  - Realiza un fork de este repositorio. Será el repositorio que tu utilices y sobre el que nosotros haremos el seguimiento de tu prueba. Si no controlas a nivel básico git & github, mira algo de documentación.
 
 ## Corrección de la prueba
- - La prueba se corregirá en vivo por el jurado. El aulmno disponodrá de un checklist asociado a cada item donde aparecerá su peso sobre el total de la prueba. Cada item estará bien o mal en su totalidad y el alumno podrá solicitar la verificación de cada item un máximo de dos veces y en cualquier momento de la prueba.
+ - La prueba se corregirá en vivo por el jurado en base al checklist proporcionado. Cada item estará bien o mal en su totalidad y el alumno podrá solicitar la verificación de cada item un máximo de dos veces y en cualquier momento de la prueba.
  
