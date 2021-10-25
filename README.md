@@ -14,7 +14,7 @@ Te recordamos que puedes usar las tecnologías (base de datos, lenguajes de prog
   - Si surge un problema/aclaración de la prueba durante la competición se informará por igual a todos los participantes para estar en igualdad de condiciones.
 
 ## Recomendaciones
-- **Trae un portatil ya configurado** con tu editor preferido, base de datos, git, etc. La organización de cualquier forma facilitará un PC, teclado, ratón y una pantalla adicional para la realización de la prueba.
+- **Trae un portatil ya configurado** con tu editor preferido, base de datos, git, etc. La organización de cualquier forma facilitará un PC, teclado, ratón ~~y una pantalla adicional~~  para la realización de la prueba.
 
 - **Estudia bien los requerimientos de las pruebas**. Se entregarán sus instrucciones, y un checklist para su evaluación. Es conveniente leer cuidadosamente todos los items del checklist y seleccionar los más favorables. La prueba está dimensionada para que sea fácil realizar algunos items, pero no la finalización de todos ellos. 
 
