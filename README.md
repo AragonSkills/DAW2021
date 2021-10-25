@@ -16,7 +16,7 @@ Te recordamos que puedes usar las tecnologías (base de datos, lenguajes de prog
 ## Recomendaciones
 - **Trae un portatil ya configurado** con tu editor preferido, base de datos, etc. La organización de cualquier forma facilitará un PC, teclado, ratón y una pantalla adicional para la realización de la prueba.
 
-- **Estudia bien los requerimientos de las pruebas**. Se entregarán sus instrucciones, bocetos y un checklist para su evaluación. Es conveniente leer cuidadosamente todos los items del checklist y seleccionar los más favorables. La prueba está dimensionada para que sea fácil realizar algunos items, pero no la finalización de todos ellos. En función de la arquitectura que se elija para hacer la aplicación hay items que no tiene sentido completar. 
+- **Estudia bien los requerimientos de las pruebas**. Se entregarán sus instrucciones, bocetos y un checklist para su evaluación. Es conveniente leer cuidadosamente todos los items del checklist y seleccionar los más favorables. La prueba está dimensionada para que sea fácil realizar algunos items, pero no la finalización de todos ellos. 
 
 - **Realiza los pasos previos que te proporcionamos**. No esperes a hacer un trabajo previo al día del examen si puedes ya llevarlo preparado. Lleva así mismo una arquitectura tipo para tu aplicación, con las librerías que utilices, etc..
 
@@ -34,7 +34,10 @@ Te recordamos que puedes usar las tecnologías (base de datos, lenguajes de prog
 
 
 ## Pasos previos
- - Familiarizate con el concepto de pictograma y con la API de ARASAAC (https://arasaac.org/developers/api).
+ - Familiarizate con el concepto de pictogramas y con la API de ARASAAC (https://arasaac.org/developers/api, endpoints keywords y pictograms).
  
  - Realiza un fork de este repositorio. Será el repositorio que tu utilices y sobre el que nosotros haremos el seguimiento de tu prueba. Si no controlas a nivel básico git & github, mira algo de documentación.
+
+## Corrección de la prueba
+ - La prueba se corregirá en vivo por el jurado. El aulmno disponodrá de un checklist asociado a cada item donde aparecerá su peso sobre el total de la prueba. Cada item estará bien o mal en su totalidad y el alumno podrá solicitar la verificación de cada item un máximo de dos veces y en cualquier momento de la prueba.
  
