@@ -21,9 +21,11 @@ Te recordamos que puedes usar las tecnologías (base de datos, lenguajes de prog
 - **Realiza los pasos previos que aquí te proporcionamos**. No esperes a hacer un trabajo previo al día del examen si puedes ya llevarlo preparado. Lleva así mismo una arquitectura tipo para tu aplicación, con las librerías que utilices, etc..
 
 
-## Horario de las pruebas
+## Día y horario de las pruebas
 
-09:30-10:00 Acreditacion
+27 de Octubre - CPIFP Los Enlaces 
+
+09:30-10:00 Acreditacion en la entrada del centro.
 
 10:00-10:30 Sorteo y preparación de puesto
 
